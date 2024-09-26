@@ -13,6 +13,6 @@ Coloque os arquivos na pasta `data/` com os seguintes nomes:
 
 E execute o arquivo `join_datasets.py` para juntar os datasets em um único chamado `combined_data_final.csv`.
 
-> Algumas células esão com uma variável booleana chamada toggle. Se ela estiver como True, o código irá rodar, caso contrário, não irá rodar. Isso foi feito para evitar que o código seja executado mais de uma vez, pois ele é muito demorado
-
 Em seguida, execute o `notebook/classification_pipeline.ipynb`.
+
+> Algumas células estão com uma variável booleana chamada toggle. Se ela estiver como True, o código irá rodar, caso contrário, não irá rodar. Isso foi feito para evitar que o código seja executado mais de uma vez, pois ele é muito demorado.
