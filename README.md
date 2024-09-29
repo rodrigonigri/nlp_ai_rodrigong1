@@ -1,5 +1,11 @@
 # nlp_ai_rodrigong1
 
+## Baixando as dependências:
+Para baixar as dependências, execute o seguinte comando:
+```bash
+pip install -r requirements.txt
+```
+
 ## Como executar:
 Não foi possível subir os dados para o repositório, pois os arquivos são muito grandes. Então antes de tudo, baixe os datasets nos seguintes links:
 - https://www.kaggle.com/datasets/abdallahwagih/spam-emails
