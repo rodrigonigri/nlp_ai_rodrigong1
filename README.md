@@ -1,5 +1,7 @@
 # nlp_ai_rodrigong1
 
+# ⚠️O meu computador deu algum problema no OneDrive e eu não consegui mudar o nome do arquivo do relatório. Mas ele se encontra no arquivo [conference-template-a4.docx](https://github.com/rodrigonigri/nlp_ai_rodrigong1/blob/main/conference-template-a4.docx)⚠️
+
 ## Baixando as dependências:
 Para baixar as dependências, execute o seguinte comando:
 ```bash
